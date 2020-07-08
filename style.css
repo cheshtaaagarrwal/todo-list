@@ -9,8 +9,17 @@ html {
       max-width: 500px;
   margin: auto;
 }
+h1{
+    font-size: 50px;
+}
 body{
   height: 100%;
+}
+p{
+  font-size:30px;
+}
+li{
+  font-size:20px;
 }
 .coolTitle {
   text-align: center;
